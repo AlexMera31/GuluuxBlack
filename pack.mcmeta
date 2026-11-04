@@ -1,0 +1,27 @@
+{
+    "pack": {
+        "pack_format": 75,
+        "description": {
+            "text": "",
+            "extra": [
+                {
+                    "text": "Creado por ",
+                    "color": "gray"
+                },
+                {
+                    "text": "Guluux",
+                    "color": "#5E1E9E",
+                    "bold": true
+                }
+            ]
+        },
+        "min_format": [
+            75,
+            0
+        ],
+        "max_format": [
+            75,
+            0
+        ]
+    }
+}
